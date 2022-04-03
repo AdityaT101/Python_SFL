@@ -18,7 +18,11 @@ b.	Dim_gender_info
 4.	Further , the fact table also gets created:-
 a.	Fact_user
 
-![image](https://user-images.githubusercontent.com/16469133/161417001-f51f3ead-5893-49e2-82c4-eb1eb970cf51.png)
+
+<img width="411" alt="Screen Shot 2022-04-03 at 12 43 15 AM" src="https://user-images.githubusercontent.com/16469133/161417051-f177d11b-4cf3-4dda-af18-734eb49fa89d.png">
+
+
+
 
 
 <img width="769" alt="Screen Shot 2022-04-03 at 12 42 07 AM" src="https://user-images.githubusercontent.com/16469133/161417011-d97fbac7-f15a-4345-b0bb-d24bc1a22c2e.png">
