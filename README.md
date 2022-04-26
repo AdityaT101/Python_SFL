@@ -26,4 +26,5 @@ The Architecture.
 
 The STAR Schema.
 
-<img width="769" alt="Screen Shot 2022-04-03 at 12 42 07 AM" src="https://user-images.githubusercontent.com/16469133/161417011-d97fbac7-f15a-4345-b0bb-d24bc1a22c2e.png">
+<img width="413" alt="star-1" src="https://user-images.githubusercontent.com/16469133/165242169-53188a80-6821-4f0e-9f65-924a24bf1e0c.png">
+
